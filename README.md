@@ -21,7 +21,9 @@ If you don’t need to build a Website on the backend server to display data lik
 ## Functions
 
 - Object Detection
-![](https://github.com/zhongjiechen97/lzu-smart-robotcar/tree/main/Images/object detection.png)
+\
+![](https://github.com/zhongjiechen97/lzu-smart-robotcar/blob/main/Images/object%20detection.png)
 
 - Navigation using Lidar sensor data
-![](https://github.com/zhongjiechen97/lzu-smart-robotcar/tree/main/Images/navigation.png)
+\
+![](https://github.com/zhongjiechen97/lzu-smart-robotcar/blob/main/Images/navigation.png)
